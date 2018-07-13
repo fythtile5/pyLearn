@@ -1,2 +1,0 @@
-# pyLearn
-python Learning
